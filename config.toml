@@ -16,7 +16,6 @@ semantic_escape_chars = ",│`|:\"' ()[]{}<>\t"
 
 [window]
 decorations = "Buttonless"
-startup_mode = "SimpleFullscreen"
 
 [window.dimensions]
 columns = 145
